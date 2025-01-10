@@ -1,6 +1,9 @@
 # 💫 About Me:
-I am Osama Islam, a passionate PHP Developer with a strong focus on creating efficient, scalable, and secure web applications. With over a year of experience, primarily leveraging the Laravel framework, I have successfully developed and maintained more than 30+ web applications, significantly enhancing client operations and user engagement.<br><br>My expertise lies in back-end development, database design, and API integration. I thrive on delivering robust solutions that streamline processes and elevate user experiences. My journey in software development is driven by a commitment to continuous learning and staying ahead of industry trends, which allows me to innovate and implement best practices in every project I undertake.<br><br>I hold a Bachelor of Computer Application from Integral University with a CGPA of 9.07 and have earned certifications in SQL, Python, Cyber Security Analysis, and IT Automation. I am proficient in various programming languages and tools, including PHP, JavaScript, MySQL, and Git.<br><br>When I'm not coding, I'm exploring new technologies and contributing to open-source projects to further hone my skills and give back to the developer community.<br><br>Feel free to connect with me on LinkedIn or explore my repositories to see what I'm currently working on!
+I'm a Full Stack Developer specializing in PHP and Laravel, with over two years of experience in back-end development, database design, and API integration. I've successfully developed and maintained more than 30 web applications, significantly enhancing client operations and user engagement. 
 
+Proficient in PHP, JavaScript, MySQL, and Git, I am dedicated to continuous learning and staying at the forefront of industry trends.
+
+Feel free to connect with me on LinkedIn, or visit my portfolio at osamaislam.vercel.app.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osama-islam/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@osamaislam.medium.com) 
