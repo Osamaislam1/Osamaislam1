@@ -1,8 +1,6 @@
 # 💫 About Me:
 I'm a Full Stack Developer specializing in PHP and Laravel, with over two years of experience in back-end development, database design, and API integration. I've successfully developed and maintained more than 30 web applications, significantly enhancing client operations and user engagement. 
 
-Proficient in PHP, JavaScript, MySQL, and Git, I am dedicated to continuous learning and staying at the forefront of industry trends.
-
 Feel free to connect with me on LinkedIn, or visit my portfolio at osamaislam.vercel.app.
 
 ## 🌐 Socials:
