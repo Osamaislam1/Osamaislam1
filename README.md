@@ -1,7 +1,10 @@
 # 💫 About Me:
 I'm a Full Stack Developer specializing in PHP and Laravel, with over two years of experience in back-end development, database design, and API integration. I've successfully developed and maintained more than 30 web applications, significantly enhancing client operations and user engagement. 
 
-Feel free to connect with me on LinkedIn, or visit my portfolio at osamaislam.vercel.app.
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/osama-islam/)), or visit my portfolio at [osamaislam.vercel.app](https://osamaislam.vercel.app).
+
+![](https://komarev.com/ghpvc/?username=Osamaislam1&color=green)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/osama-islam/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@osamaislam.medium.com) 
