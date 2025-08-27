@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer specializing in PHP and Laravel, with over two years of experience in back-end development, database design, and API integration. I've successfully developed and maintained more than 30+ web applications, significantly enhancing client operations and user engagement. 
+I'm a Full Stack Developer specializing in PHP and Laravel, with over two years of experience in back-end development, database design, and API integration. I've successfully developed and maintained more than 50+ web applications, significantly enhancing client operations and user engagement. 
 
 Feel free to connect with me on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/osama-islam/)), or visit my portfolio at [osamaislam.vercel.app](https://osamaislam.vercel.app).
 
